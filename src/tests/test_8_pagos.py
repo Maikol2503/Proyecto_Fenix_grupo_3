@@ -36,7 +36,7 @@ def test_consultar_pagos():
 #     url = f"/pagos/{id}"
 #     response = client.get(url)
 #     assert response.status_code == 200
-#     assert all(isinstance(item, dict) for item in response.json())
+#     assert all(isinstance(item, list) for item in response.json())
      
 
     

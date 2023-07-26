@@ -29,6 +29,14 @@ async def consultar_inscripciones_pagas( id:int, boleano: bool ):
     result = Inscripciones_services().consultar_inscripciones_pagadas(id, boleano)
     return result
 
+# CONSULTAR TOTALA A PAGAR INSCRIPCION
+@inscripciones.get("/inscripciones-total-pagar/{id_alumno}")
+async def inscripciones_total_pagar( id_alumno:int):
+    result = Inscripciones_services().consulta_total_inscripcion_de_alumno(id_alumno)
+    return result
+
+
+
 
 # CREAR UNA NUEVA INSCRIPCIÓN
 @inscripciones.post("/inscripcion")

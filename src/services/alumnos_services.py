@@ -21,6 +21,7 @@ class Alumnos_services:
         if not result:
         # Si no se encuentran alumnos, se lanza una excepción HTTP con el código de estado 404 y un mensaje de error
             raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={"message":"Aún no hay alumnos"}) 
+        
         return JSONResponse(status_code=200, content=jsonable_encoder(result))
 
 

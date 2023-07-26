@@ -4,7 +4,7 @@ from models.alumnosModel import Alumnos_model
 from models.incripcionesModel import Inscripciones_model
 from dateutil.relativedelta import relativedelta
 from config.db import Session
-from sqlalchemy import and_, text
+from sqlalchemy import and_, func, text
 from services.profesor_clases_services import Profesor_clases_services
 from fastapi.encoders import jsonable_encoder
 
@@ -38,6 +38,36 @@ class Inscripciones_services:
         if not result:
             raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='No existe ninguna inscripción con ese id de alumno')
         return JSONResponse(status_code=200, content=jsonable_encoder(result))
+    
+    
+    def consulta_total_inscripcion_de_alumno(self,id):
+        alumno_id = 1
+        query = f"""SELECT
+                    c.nombre_clase,
+                    n.nombre_nivel,
+                    i.precio_con_descuento,
+                    (
+                        SELECT SUM(i2.precio_con_descuento)
+                        FROM inscripciones AS i2
+                        JOIN profesores_clases AS pc2 ON pc2.id_clase_profesor = i2.profesor_clase_id
+                        WHERE pc2.clase_id = c.id_clase AND pc2.nivel_id = n.id_nivel AND i2.alumno_id = 1
+                    ) AS total
+                FROM inscripciones AS i
+                JOIN profesores_clases AS pc ON pc.id_clase_profesor = i.profesor_clase_id
+                JOIN clases AS c ON c.id_clase = pc.clase_id
+                JOIN niveles AS n ON n.id_nivel = pc.nivel_id
+                WHERE i.alumno_id = 1;"""
+        results = self.db.execute(text(query)).fetchall()
+        # results_text = ""
+        # for item in results:
+        #     text = f"""
+        #             clase: {item[0]} nivel: {item[1]} monto: {item[2]} total: {item[4]}
+        #     """
+        #     results_text.append(text)
+        total = {"total":results[0][3]}
+        result = [{"clase":data[0], "nivel":data[1], "monto":data[2]} for data in results]
+        result.append(total)
+        return result
 
 
     # CONSULTAR CUÁNTAS VECES ESTÁ INSCRITO UN ALUMNO AL MISMO PACK

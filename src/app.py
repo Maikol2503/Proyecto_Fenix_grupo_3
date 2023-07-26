@@ -45,6 +45,3 @@ ejecutar_funcion_en_hora_especifica(hora_especifica, minuto_especifico, segundos
 
 # uvicorn app:app --host localhost --port 5000 --reload
 
-
-
-

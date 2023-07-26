@@ -5,10 +5,6 @@ from app import app
 
 client = TestClient(app)
 
-
-
-
-
 def test_agregar_un_alumno():
     data = {
             "apellido_alumno": "Apellido prueba",
@@ -23,8 +19,6 @@ def test_agregar_un_alumno():
     response = client.post("/alumnos", json=data)
     assert response.status_code == 201
     assert response.json() == {"message": "Se ha registrado un nuevo alumno"}
-
-
 
 
 # #TODOS LOS ALUMNOS
