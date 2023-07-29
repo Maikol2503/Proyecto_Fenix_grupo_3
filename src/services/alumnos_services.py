@@ -60,6 +60,7 @@ class Alumnos_services:
         return JSONResponse(status_code=201, content={"message": "Se ha registrado un nuevo alumno"})
 
 
+
     # EDITAR UN ALUMNO
     def editar_alumno(self, id: str, data):
         alumno = self.db.query(Alumnos_model).filter(Alumnos_model.id_alumno == id).first()

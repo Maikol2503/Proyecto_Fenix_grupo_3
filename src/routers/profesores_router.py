@@ -7,10 +7,10 @@ from config.db import Base, engine
 
 profesores = APIRouter(tags=["profesores"])
 
-#CREAR LAS TABLAS
-@profesores.on_event("startup")
-def startup():
-    Base.metadata.create_all(bind=engine)
+# #CREAR LAS TABLAS
+# @profesores.on_event("startup")
+# def startup():
+#     Base.metadata.create_all(bind=engine)
 
 
 # COSULTAR TODOS LOS PROFESORES

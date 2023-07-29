@@ -18,3 +18,4 @@ class ErrorHandler(BaseHTTPMiddleware):
         except Exception as e:
             return JSONResponse(status_code=500, content={'error': str(e)})
             # Envío un mensaje de error
+            

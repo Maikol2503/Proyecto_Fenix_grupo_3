@@ -8,10 +8,10 @@ from services.packs_services import Packs_services
 
 packs = APIRouter(tags=["packs"])
 
-@packs.on_event("startup")
-def startup():
-   # create db table
-    Base.metadata.create_all(bind=engine)
+# @packs.on_event("startup")
+# def startup():
+#    # create db table
+#     Base.metadata.create_all(bind=engine)
 
 
 # COSULTAR TODOS LOS PACKS

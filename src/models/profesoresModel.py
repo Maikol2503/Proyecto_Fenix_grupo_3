@@ -1,6 +1,6 @@
 from sqlalchemy import Table, Column, String
 from sqlalchemy.sql.sqltypes import Integer
-from config.db import meta, engine, Base
+from config.db import engine, Base
 
 
 

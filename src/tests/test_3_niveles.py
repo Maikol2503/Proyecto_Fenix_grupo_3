@@ -44,7 +44,7 @@ def test_consultar_un_nivel():
      
     
 #TEST EDITAR UN NIVEL
-def test_editar_un_profesor():
+def test_editar_un_nivel():
     nombre = nombre_nivel
     url = f"/niveles/{nombre}"
     data = {

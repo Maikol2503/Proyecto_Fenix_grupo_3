@@ -9,10 +9,10 @@ from config.db import Base, engine
 
 niveles = APIRouter(tags=["niveles"])
 
-# CREAR LAS TABLAS
-@niveles.on_event("startup")
-def startup():
-    Base.metadata.create_all(bind=engine)
+# # CREAR LAS TABLAS
+# @niveles.on_event("startup")
+# def startup():
+#     Base.metadata.create_all(bind=engine)
 
 
 # COSULTAR TODOS LOS NIVELES

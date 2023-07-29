@@ -1,6 +1,6 @@
 from models.pagosModel import Pagos_model
 from services.incripcion_automatica_services import crear_nueva_inscripcion
-from routers.profesor_clases_router import profesor_clases
+from routers.profesor_clases_router import profesor_clases  
 from routers.inscripciones_router import inscripciones
 from routers.profesores_router import profesores
 from services.incripcion_automatica_services import ejecutar_funcion_en_hora_especifica
@@ -23,16 +23,16 @@ port = config("PORT")
 app = FastAPI()
 
 app.add_middleware(ErrorHandler)
-app.include_router(profesor_clases)
-app.include_router(inscripciones)
-app.include_router(profesores)
-app.include_router(niveles)
 app.include_router(alumnos)
 app.include_router(clases)
 app.include_router(packs)
+app.include_router(niveles)
+app.include_router(profesores)
+app.include_router(profesor_clases)
+app.include_router(inscripciones)
 app.include_router(pagos)
 
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
 
 # Define la hora y minuto específicos para la ejecución (ejemplo: 15:30)
 hora_especifica = 00

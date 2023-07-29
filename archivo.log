@@ -1,0 +1,266 @@
+2023-07-26 09:19:58,331 [INFO] Fecha actual: 2023-07-26
+2023-07-26 09:19:58,331 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 09:19:58,331 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 09:19:58,379 [INFO] Se ha registrado un nuevo alumno
+2023-07-26 09:19:58,386 [DEBUG] Consultando todos los alumnos
+2023-07-26 09:19:58,390 [DEBUG] Consultando alumno con id: 1
+2023-07-26 09:19:58,402 [INFO] Se ha modificado el alumno
+2023-07-26 09:19:58,412 [INFO] Se ha registrado un nuevo profesor
+2023-07-26 09:19:58,418 [DEBUG] Consultando todos los profesores
+2023-07-26 09:19:58,423 [DEBUG] Consultando profesor por id
+2023-07-26 09:19:58,427 [INFO] Se ha modificado el profesor
+2023-07-26 09:19:58,436 [INFO] Se ha registrado un nuevo nivel
+2023-07-26 09:19:58,442 [DEBUG] Consultando todos los niveles
+2023-07-26 09:19:58,448 [DEBUG] Consultando nivel por nombre
+2023-07-26 09:19:58,453 [INFO] Se ha modificado el nivel
+2023-07-26 09:19:58,460 [INFO] Se ha registrado un nuevo pack
+2023-07-26 09:19:58,466 [DEBUG] Consultando todos los packs
+2023-07-26 09:19:58,470 [DEBUG] Consultando pack por id
+2023-07-26 09:19:58,477 [INFO] Se ha modificado el pack
+2023-07-26 09:19:58,486 [INFO] Se ha registrado un nuevo clase
+2023-07-26 09:19:58,491 [DEBUG] Consultando todos los clases
+2023-07-26 09:19:58,497 [DEBUG] Consultando clase con id: 1
+2023-07-26 09:19:58,505 [INFO] Se ha modificado el clase
+2023-07-26 09:19:58,515 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-26 09:19:58,521 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 09:19:58,525 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 09:19:58,531 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-26 09:19:58,537 [WARNING] No se encontró el alumno
+2023-07-26 09:19:58,537 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 09:19:58,539 [DEBUG] Consultando el pack
+2023-07-26 09:19:58,542 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 09:19:58,547 [INFO] Consultando todos los inscriptiones
+2023-07-26 09:19:58,552 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-26 09:19:58,556 [DEBUG] Consultando inscripcion con id: 1
+2023-07-26 09:19:58,565 [INFO] Se ha modificado la inscripción
+2023-07-26 09:19:58,574 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-26 09:19:58,576 [INFO] Se ha registrado un nuevo pago
+2023-07-26 09:19:58,582 [DEBUG] Consultando todos los pagos
+2023-07-26 10:21:53,580 [INFO] Fecha actual: 2023-07-26
+2023-07-26 10:21:53,580 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 10:21:53,580 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 10:21:53,619 [INFO] Se ha registrado un nuevo alumno
+2023-07-26 10:21:53,626 [DEBUG] Consultando todos los alumnos
+2023-07-26 10:21:53,630 [DEBUG] Consultando alumno con id: 1
+2023-07-26 10:21:53,643 [INFO] Se ha modificado el alumno
+2023-07-26 10:21:53,652 [INFO] Se ha registrado un nuevo profesor
+2023-07-26 10:21:53,656 [DEBUG] Consultando todos los profesores
+2023-07-26 10:21:53,661 [DEBUG] Consultando profesor por id
+2023-07-26 10:21:53,667 [INFO] Se ha modificado el profesor
+2023-07-26 10:21:53,676 [INFO] Se ha registrado un nuevo nivel
+2023-07-26 10:21:53,680 [DEBUG] Consultando todos los niveles
+2023-07-26 10:21:53,684 [DEBUG] Consultando nivel por nombre
+2023-07-26 10:21:53,691 [INFO] Se ha modificado el nivel
+2023-07-26 10:21:53,699 [INFO] Se ha registrado un nuevo pack
+2023-07-26 10:21:53,704 [DEBUG] Consultando todos los packs
+2023-07-26 10:21:53,709 [DEBUG] Consultando pack por id
+2023-07-26 10:21:53,715 [INFO] Se ha modificado el pack
+2023-07-26 10:21:53,725 [INFO] Se ha registrado un nuevo clase
+2023-07-26 10:21:53,731 [DEBUG] Consultando todos los clases
+2023-07-26 10:21:53,734 [DEBUG] Consultando clase con id: 1
+2023-07-26 10:21:53,742 [INFO] Se ha modificado el clase
+2023-07-26 10:21:53,751 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-26 10:21:53,756 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 10:21:53,761 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 10:21:53,767 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-26 10:21:53,773 [WARNING] No se encontró el alumno
+2023-07-26 10:21:53,774 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 10:21:53,776 [DEBUG] Consultando el pack
+2023-07-26 10:21:53,778 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 10:21:53,781 [INFO] Consultando todos los inscriptiones
+2023-07-26 10:21:53,785 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-26 10:21:53,790 [DEBUG] Consultando inscripcion con id: 1
+2023-07-26 10:21:53,799 [INFO] Se ha modificado la inscripción
+2023-07-26 10:21:53,808 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-26 10:21:53,811 [INFO] Se ha registrado un nuevo pago
+2023-07-26 10:21:53,817 [DEBUG] Consultando todos los pagos
+2023-07-26 11:03:15,602 [INFO] Fecha actual: 2023-07-26
+2023-07-26 11:03:15,602 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 11:03:15,602 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 11:03:15,653 [INFO] Se ha registrado un nuevo alumno
+2023-07-26 11:03:15,662 [DEBUG] Consultando todos los alumnos
+2023-07-26 11:03:15,668 [DEBUG] Consultando alumno con id: 1
+2023-07-26 11:03:15,680 [INFO] Se ha modificado el alumno
+2023-07-26 11:03:15,692 [INFO] Se ha registrado un nuevo profesor
+2023-07-26 11:03:15,697 [DEBUG] Consultando todos los profesores
+2023-07-26 11:03:15,703 [DEBUG] Consultando profesor por id
+2023-07-26 11:03:15,708 [INFO] Se ha modificado el profesor
+2023-07-26 11:03:15,717 [INFO] Se ha registrado un nuevo nivel
+2023-07-26 11:03:15,722 [DEBUG] Consultando todos los niveles
+2023-07-26 11:03:15,727 [DEBUG] Consultando nivel por nombre
+2023-07-26 11:03:15,733 [INFO] Se ha modificado el nivel
+2023-07-26 11:03:15,742 [INFO] Se ha registrado un nuevo pack
+2023-07-26 11:03:15,748 [DEBUG] Consultando todos los packs
+2023-07-26 11:03:15,754 [DEBUG] Consultando pack por id
+2023-07-26 11:03:15,761 [INFO] Se ha modificado el pack
+2023-07-26 11:03:15,770 [INFO] Se ha registrado un nuevo clase
+2023-07-26 11:03:15,776 [DEBUG] Consultando todos los clases
+2023-07-26 11:03:15,780 [DEBUG] Consultando clase con id: 1
+2023-07-26 11:03:15,787 [INFO] Se ha modificado el clase
+2023-07-26 11:03:15,796 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-26 11:03:15,802 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 11:03:15,807 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 11:03:15,814 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-26 11:03:15,819 [WARNING] No se encontró el alumno
+2023-07-26 11:03:15,819 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 11:03:15,820 [DEBUG] Consultando el pack
+2023-07-26 11:03:15,824 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 11:03:15,828 [INFO] Consultando todos los inscriptiones
+2023-07-26 11:03:15,832 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-26 11:03:15,837 [DEBUG] Consultando inscripcion con id: 1
+2023-07-26 11:03:15,845 [INFO] Se ha modificado la inscripción
+2023-07-26 11:03:15,862 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-26 11:03:15,867 [INFO] Se ha registrado un nuevo pago
+2023-07-26 11:03:15,876 [DEBUG] Consultando todos los pagos
+2023-07-27 09:37:46,332 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:37:46,336 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:37:46,336 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:37:46,364 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:37:46,370 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:37:46,376 [DEBUG] Consultando alumno con id: 1
+2023-07-27 09:37:46,386 [INFO] Se ha modificado el alumno
+2023-07-27 09:37:46,394 [INFO] Se ha registrado un nuevo profesor
+2023-07-27 09:37:46,399 [DEBUG] Consultando todos los profesores
+2023-07-27 09:37:46,405 [DEBUG] Consultando profesor por id
+2023-07-27 09:37:46,411 [INFO] Se ha modificado el profesor
+2023-07-27 09:37:46,419 [INFO] Se ha registrado un nuevo nivel
+2023-07-27 09:37:46,422 [DEBUG] Consultando todos los niveles
+2023-07-27 09:37:46,427 [DEBUG] Consultando nivel por nombre
+2023-07-27 09:37:46,434 [INFO] Se ha modificado el nivel
+2023-07-27 09:37:46,443 [INFO] Se ha registrado un nuevo pack
+2023-07-27 09:37:46,448 [DEBUG] Consultando todos los packs
+2023-07-27 09:37:46,454 [DEBUG] Consultando pack por id
+2023-07-27 09:37:46,461 [INFO] Se ha modificado el pack
+2023-07-27 09:37:46,469 [INFO] Se ha registrado un nuevo clase
+2023-07-27 09:37:46,474 [DEBUG] Consultando todos los clases
+2023-07-27 09:37:46,480 [DEBUG] Consultando clase con id: 1
+2023-07-27 09:37:46,487 [INFO] Se ha modificado el clase
+2023-07-27 09:37:46,495 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-27 09:37:46,501 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 09:37:46,506 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:37:46,512 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-27 09:37:46,519 [WARNING] No se encontró el alumno
+2023-07-27 09:37:46,519 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:37:46,522 [DEBUG] Consultando el pack
+2023-07-27 09:37:46,524 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 09:37:46,529 [INFO] Consultando todos los inscriptiones
+2023-07-27 09:37:46,533 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-27 09:37:46,538 [DEBUG] Consultando inscripcion con id: 1
+2023-07-27 09:37:46,547 [INFO] Se ha modificado la inscripción
+2023-07-27 09:37:46,555 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-27 09:37:46,558 [INFO] Se ha registrado un nuevo pago
+2023-07-27 09:37:46,562 [DEBUG] Consultando todos los pagos
+2023-07-27 09:40:17,638 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:40:17,643 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:40:17,644 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:40:17,673 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:40:17,679 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:40:17,683 [DEBUG] Consultando alumno con id: 1
+2023-07-27 09:40:17,692 [INFO] Se ha modificado el alumno
+2023-07-27 09:40:17,704 [INFO] Se ha registrado un nuevo profesor
+2023-07-27 09:40:17,709 [DEBUG] Consultando todos los profesores
+2023-07-27 09:40:17,713 [DEBUG] Consultando profesor por id
+2023-07-27 09:40:17,719 [INFO] Se ha modificado el profesor
+2023-07-27 09:40:17,728 [INFO] Se ha registrado un nuevo nivel
+2023-07-27 09:40:17,732 [DEBUG] Consultando todos los niveles
+2023-07-27 09:40:17,738 [DEBUG] Consultando nivel por nombre
+2023-07-27 09:40:17,743 [INFO] Se ha modificado el nivel
+2023-07-27 09:40:17,751 [INFO] Se ha registrado un nuevo pack
+2023-07-27 09:40:17,757 [DEBUG] Consultando todos los packs
+2023-07-27 09:40:17,761 [DEBUG] Consultando pack por id
+2023-07-27 09:40:17,767 [INFO] Se ha modificado el pack
+2023-07-27 09:40:17,776 [INFO] Se ha registrado un nuevo clase
+2023-07-27 09:40:17,782 [DEBUG] Consultando todos los clases
+2023-07-27 09:40:17,787 [DEBUG] Consultando clase con id: 1
+2023-07-27 09:40:17,792 [INFO] Se ha modificado el clase
+2023-07-27 09:40:17,800 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-27 09:40:17,804 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 09:40:17,808 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:40:17,816 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-27 09:40:17,823 [WARNING] No se encontró el alumno
+2023-07-27 09:40:17,824 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:40:17,825 [DEBUG] Consultando el pack
+2023-07-27 09:40:17,828 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 09:40:17,834 [INFO] Consultando todos los inscriptiones
+2023-07-27 09:40:17,837 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-27 09:40:17,842 [DEBUG] Consultando inscripcion con id: 1
+2023-07-27 09:40:17,851 [INFO] Se ha modificado la inscripción
+2023-07-27 09:40:17,859 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-27 09:40:17,862 [INFO] Se ha registrado un nuevo pago
+2023-07-27 09:40:17,868 [DEBUG] Consultando todos los pagos
+2023-07-27 09:41:25,839 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:41:25,844 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:41:25,845 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:41:25,870 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:41:25,874 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:41:25,879 [DEBUG] Consultando alumno con id: 1
+2023-07-27 09:41:25,887 [INFO] Se ha modificado el alumno
+2023-07-27 09:41:25,899 [INFO] Se ha registrado un nuevo profesor
+2023-07-27 09:41:25,905 [DEBUG] Consultando todos los profesores
+2023-07-27 09:41:25,913 [DEBUG] Consultando profesor por id
+2023-07-27 09:41:25,919 [INFO] Se ha modificado el profesor
+2023-07-27 09:41:25,927 [INFO] Se ha registrado un nuevo nivel
+2023-07-27 09:41:25,932 [DEBUG] Consultando todos los niveles
+2023-07-27 09:41:25,937 [DEBUG] Consultando nivel por nombre
+2023-07-27 09:41:25,942 [INFO] Se ha modificado el nivel
+2023-07-27 09:41:25,950 [INFO] Se ha registrado un nuevo pack
+2023-07-27 09:41:25,956 [DEBUG] Consultando todos los packs
+2023-07-27 09:41:25,961 [DEBUG] Consultando pack por id
+2023-07-27 09:41:25,968 [INFO] Se ha modificado el pack
+2023-07-27 09:41:25,976 [INFO] Se ha registrado un nuevo clase
+2023-07-27 09:41:25,980 [DEBUG] Consultando todos los clases
+2023-07-27 09:41:25,986 [DEBUG] Consultando clase con id: 1
+2023-07-27 09:41:25,990 [INFO] Se ha modificado el clase
+2023-07-27 09:41:26,001 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-27 09:41:26,006 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 09:41:26,011 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:41:26,017 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-27 09:41:26,022 [WARNING] No se encontró el alumno
+2023-07-27 09:41:26,022 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:41:26,024 [DEBUG] Consultando el pack
+2023-07-27 09:41:26,027 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 09:41:26,032 [INFO] Consultando todos los inscriptiones
+2023-07-27 09:41:26,037 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-27 09:41:26,041 [DEBUG] Consultando inscripcion con id: 1
+2023-07-27 09:41:26,049 [INFO] Se ha modificado la inscripción
+2023-07-27 09:41:26,056 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-27 09:41:26,059 [INFO] Se ha registrado un nuevo pago
+2023-07-27 09:41:26,065 [DEBUG] Consultando todos los pagos
+2023-07-27 09:42:25,405 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:42:25,410 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:42:25,411 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:42:25,437 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:42:25,443 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:42:25,449 [DEBUG] Consultando alumno con id: 1
+2023-07-27 09:42:25,457 [INFO] Se ha modificado el alumno
+2023-07-27 09:42:25,469 [INFO] Se ha registrado un nuevo profesor
+2023-07-27 09:42:25,473 [DEBUG] Consultando todos los profesores
+2023-07-27 09:42:25,478 [DEBUG] Consultando profesor por id
+2023-07-27 09:42:25,484 [INFO] Se ha modificado el profesor
+2023-07-27 09:42:25,493 [INFO] Se ha registrado un nuevo nivel
+2023-07-27 09:42:25,498 [DEBUG] Consultando todos los niveles
+2023-07-27 09:42:25,502 [DEBUG] Consultando nivel por nombre
+2023-07-27 09:42:25,508 [INFO] Se ha modificado el nivel
+2023-07-27 09:42:25,518 [INFO] Se ha registrado un nuevo pack
+2023-07-27 09:42:25,522 [DEBUG] Consultando todos los packs
+2023-07-27 09:42:25,527 [DEBUG] Consultando pack por id
+2023-07-27 09:42:25,532 [INFO] Se ha modificado el pack
+2023-07-27 09:42:25,543 [INFO] Se ha registrado un nuevo clase
+2023-07-27 09:42:25,548 [DEBUG] Consultando todos los clases
+2023-07-27 09:42:25,552 [DEBUG] Consultando clase con id: 1
+2023-07-27 09:42:25,558 [INFO] Se ha modificado el clase
+2023-07-27 09:42:25,566 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-27 09:42:25,570 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 09:42:25,575 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:42:25,582 [INFO] Se ha modificado el profesor por clases y nivel
+2023-07-27 09:42:25,587 [WARNING] No se encontró el alumno
+2023-07-27 09:42:25,587 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:42:25,588 [DEBUG] Consultando el pack
+2023-07-27 09:42:25,592 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 09:42:25,598 [INFO] Consultando todos los inscriptiones
+2023-07-27 09:42:25,601 [DEBUG] Consultando inscripcion pagada con id de alumno: 1
+2023-07-27 09:42:25,606 [DEBUG] Consultando inscripcion con id: 1
+2023-07-27 09:42:25,616 [INFO] Se ha modificado la inscripción
+2023-07-27 09:42:25,629 [INFO] Se ha registrado un nuevo pago en la inscripcion
+2023-07-27 09:42:25,632 [INFO] Se ha registrado un nuevo pago
+2023-07-27 09:42:25,638 [DEBUG] Consultando todos los pagos

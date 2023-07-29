@@ -1,6 +1,6 @@
 from sqlalchemy import ForeignKey, Table, Column, String
 from sqlalchemy.sql.sqltypes import Integer
-from config.db import meta, engine, Base
+from config.db import engine, Base
 
 # Creo el modelo de la tabla Profesores
 class Profesor_clases_model(Base):

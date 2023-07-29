@@ -11,11 +11,11 @@ from config.db import Base, engine
 
 pagos = APIRouter(tags=["pagos"])
 
-# CREAR TABLA DE PAGOS
-@pagos.on_event("startup")
-def startup():
-     # create db tables
-    Base.metadata.create_all(bind=engine)
+# # CREAR TABLA DE PAGOS
+# @pagos.on_event("startup")
+# def startup():
+#      # create db tables
+#     Base.metadata.create_all(bind=engine)
 
 
 # CONSULTAR TODOS LOS PAGOS

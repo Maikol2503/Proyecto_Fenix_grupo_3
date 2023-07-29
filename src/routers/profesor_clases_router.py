@@ -11,9 +11,9 @@ from config.db import Base, engine
 profesor_clases = APIRouter(tags=["profesor_clases"])
 
  # CREAR LAS TABLAS DE PROFESOR - CLASES -NIVEL
-@profesor_clases.on_event("startup")
-def startup():
-  Base.metadata.create_all(bind=engine)
+# @profesor_clases.on_event("startup")
+# def startup():
+#   Base.metadata.create_all(bind=engine)
 
 
 # COSULTAR TODAS LAS RELACIONES 'PROFESOR - CLASE - NIVEL'

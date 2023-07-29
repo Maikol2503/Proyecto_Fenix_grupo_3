@@ -14,6 +14,7 @@ class Pagos_services:
         self.logger= Logs()
 
 
+
     # CONSULTAR TODOS LOS PAGOS
     def consultar_pagos(self):
         result = self.db.query(Pagos_model).all()

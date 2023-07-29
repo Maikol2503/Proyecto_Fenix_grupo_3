@@ -61,3 +61,232 @@
 2023-07-26 00:34:44,284 [INFO] Fecha actual: 2023-07-26
 2023-07-26 00:34:44,310 [INFO] NÃºmero de inscripciones encontradas: 0
 2023-07-26 00:34:44,311 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 09:06:40,607 [INFO] Fecha actual: 2023-07-26
+2023-07-26 09:06:40,612 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 09:06:40,613 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 11:03:11,998 [INFO] Fecha actual: 2023-07-26
+2023-07-26 11:03:12,002 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 11:03:12,003 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 11:48:29,153 [INFO] Fecha actual: 2023-07-26
+2023-07-26 11:48:29,157 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 11:48:29,157 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 11:49:11,010 [INFO] Fecha actual: 2023-07-26
+2023-07-26 11:49:11,018 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 11:49:11,019 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 11:50:53,489 [INFO] Se ha registrado un nuevo alumno
+2023-07-26 11:51:01,179 [DEBUG] Consultando todos los alumnos
+2023-07-26 11:51:22,755 [DEBUG] Consultando alumno con id: 2
+2023-07-26 11:51:22,757 [WARNING] No se encontró el alumno
+2023-07-26 11:51:32,420 [DEBUG] Consultando alumno con id: 1
+2023-07-26 11:52:21,905 [INFO] Se ha modificado el alumno
+2023-07-26 11:52:33,809 [DEBUG] Consultando todos los alumnos
+2023-07-26 12:09:50,365 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:14:01,218 [DEBUG] Consultando todos los niveles
+2023-07-26 12:15:32,394 [DEBUG] Consultando todos los profesores
+2023-07-26 12:17:23,254 [INFO] Fecha actual: 2023-07-26
+2023-07-26 12:17:23,261 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 12:17:23,261 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 12:22:12,213 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:22:12,213 [WARNING] No se encontraron profesores por clases
+2023-07-26 12:26:33,358 [DEBUG] Consultando todos los clases
+2023-07-26 12:28:49,232 [DEBUG] Consultando todos los clases
+2023-07-26 12:30:23,665 [DEBUG] Consultando todos los clases
+2023-07-26 12:30:50,878 [DEBUG] Consultando todos los profesores
+2023-07-26 12:31:20,178 [DEBUG] Consultando todos los niveles
+2023-07-26 12:31:34,741 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-26 12:31:53,122 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:36:04,856 [DEBUG] Consultando todos los clases
+2023-07-26 12:38:20,687 [DEBUG] Consultando todos los clases
+2023-07-26 12:38:48,654 [DEBUG] Consultando todos los profesores
+2023-07-26 12:39:20,485 [DEBUG] Consultando todos los niveles
+2023-07-26 12:39:36,126 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-26 12:39:49,828 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:40:21,265 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:40:21,265 [WARNING] No se encontraron profesores por clases
+2023-07-26 12:41:21,356 [DEBUG] Consultando todos los clases
+2023-07-26 12:41:50,002 [DEBUG] Consultando todos los profesores
+2023-07-26 12:42:24,044 [DEBUG] Consultando todos los niveles
+2023-07-26 12:42:44,485 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-26 12:43:00,455 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:48:13,752 [ERROR] Error consultando todos los inscriptiones
+2023-07-26 12:48:15,754 [ERROR] Error consultando todos los inscriptiones
+2023-07-26 12:49:21,359 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:50:05,139 [INFO] Fecha actual: 2023-07-26
+2023-07-26 12:50:05,148 [INFO] Número de inscripciones encontradas: 0
+2023-07-26 12:50:05,148 [INFO] Nuevas inscripciones creadas: 0
+2023-07-26 12:50:17,921 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:50:51,441 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:51:23,297 [DEBUG] Consultando todos los alumnos
+2023-07-26 12:51:46,001 [WARNING] No se encontró el alumno
+2023-07-26 12:51:46,005 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 12:51:46,009 [DEBUG] Consultando el pack
+2023-07-26 12:51:46,014 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 12:52:00,236 [DEBUG] Consultando todos los alumnos
+2023-07-26 12:52:33,119 [INFO] Consultando todos los inscriptiones
+2023-07-26 12:53:55,085 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:54:29,014 [DEBUG] Consultando todos los alumnos
+2023-07-26 12:55:04,960 [WARNING] No se encontró el alumno
+2023-07-26 12:55:04,960 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 12:55:04,962 [DEBUG] Consultando el pack
+2023-07-26 12:55:04,967 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 12:55:08,207 [WARNING] No se encontró el alumno
+2023-07-26 12:55:08,208 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 12:55:08,210 [DEBUG] Consultando el pack
+2023-07-26 12:55:08,212 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 12:55:22,543 [INFO] Consultando todos los inscriptiones
+2023-07-26 12:58:26,564 [ERROR] Error consultando todos los inscriptiones
+2023-07-26 12:59:06,913 [DEBUG] Consultando todos los profesores por clases
+2023-07-26 12:59:29,506 [DEBUG] Consultando todos los alumnos
+2023-07-26 12:59:55,239 [WARNING] No se encontró el alumno
+2023-07-26 12:59:55,241 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 12:59:55,242 [DEBUG] Consultando el pack
+2023-07-26 12:59:55,245 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 13:00:08,145 [INFO] Consultando todos los inscriptiones
+2023-07-26 13:04:46,217 [WARNING] No se encontró el alumno
+2023-07-26 13:04:46,219 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-26 13:04:46,219 [DEBUG] Consultando el pack
+2023-07-26 13:04:46,226 [INFO] Se ha registrado la nueva inscripción
+2023-07-26 13:04:55,118 [INFO] Consultando todos los inscriptiones
+2023-07-27 08:13:09,537 [ERROR] Error al conectar a la base de datos:
+2023-07-27 08:13:28,566 [INFO] Fecha actual: 2023-07-27
+2023-07-27 08:13:28,599 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 08:13:28,599 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:03:54,391 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:03:54,396 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:03:54,396 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:07:17,813 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:08:23,241 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:08:23,246 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:08:23,247 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:11:32,346 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:11:37,538 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:11:50,291 [DEBUG] Consultando alumno con id: 1
+2023-07-27 09:11:50,308 [WARNING] No se encontró el alumno
+2023-07-27 09:11:54,694 [DEBUG] Consultando alumno con id: 2
+2023-07-27 09:13:17,835 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:14:43,954 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:14:48,870 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:19:26,294 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:19:37,633 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:19:50,314 [DEBUG] Consultando alumno con id: 2
+2023-07-27 09:19:50,316 [WARNING] No se encontró el alumno
+2023-07-27 09:19:55,456 [DEBUG] Consultando alumno con id: 3
+2023-07-27 09:20:03,726 [DEBUG] Consultando alumno con id: 5
+2023-07-27 09:22:59,832 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:23:05,787 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:23:21,635 [DEBUG] Consultando alumno con id: 6
+2023-07-27 09:23:58,787 [INFO] Se ha modificado el alumno
+2023-07-27 09:24:10,047 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:24:25,190 [INFO] Se ha eliminado el alumno
+2023-07-27 09:24:33,923 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:25:40,285 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:25:46,215 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:26:00,147 [DEBUG] Consultando alumno con id: 7
+2023-07-27 09:26:28,998 [INFO] Se ha modificado el alumno
+2023-07-27 09:29:17,504 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 09:29:22,482 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:29:34,806 [DEBUG] Consultando alumno con id: 8
+2023-07-27 09:30:01,789 [INFO] Se ha modificado el alumno
+2023-07-27 09:30:10,177 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:30:23,696 [INFO] Se ha eliminado el alumno
+2023-07-27 09:30:31,534 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:54:25,010 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:54:25,015 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:54:25,015 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 09:58:04,838 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 09:58:31,085 [DEBUG] Consultando todos los alumnos
+2023-07-27 09:58:51,847 [WARNING] No se encontró el alumno
+2023-07-27 09:58:51,850 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 09:58:51,851 [DEBUG] Consultando el pack
+2023-07-27 09:58:51,855 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 09:58:59,398 [INFO] Consultando todos los inscriptiones
+2023-07-27 09:59:50,532 [INFO] Fecha actual: 2023-07-27
+2023-07-27 09:59:50,537 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 09:59:50,538 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 10:01:13,996 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 10:01:33,762 [DEBUG] Consultando todos los alumnos
+2023-07-27 10:01:52,858 [WARNING] No se encontró el alumno
+2023-07-27 10:01:52,861 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 10:01:52,867 [DEBUG] Consultando el pack
+2023-07-27 10:01:52,872 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 10:01:59,357 [INFO] Consultando todos los inscriptiones
+2023-07-27 10:04:07,909 [DEBUG] Consultando todos los profesores por clases
+2023-07-27 10:04:29,507 [DEBUG] Consultando todos los alumnos
+2023-07-27 10:04:48,583 [WARNING] No se encontró el alumno
+2023-07-27 10:04:48,584 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 10:04:48,584 [DEBUG] Consultando el pack
+2023-07-27 10:04:48,590 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 10:04:55,622 [INFO] Consultando todos los inscriptiones
+2023-07-27 10:05:21,751 [WARNING] No se encontró el alumno
+2023-07-27 10:05:21,752 [DEBUG] Consultando profesor por clases y nivel por id
+2023-07-27 10:05:21,754 [DEBUG] Consultando el pack
+2023-07-27 10:05:21,755 [INFO] Se ha registrado la nueva inscripción
+2023-07-27 10:05:25,788 [INFO] Consultando todos los inscriptiones
+2023-07-27 10:08:22,232 [DEBUG] Consultando todos los clases
+2023-07-27 10:08:46,931 [DEBUG] Consultando todos los profesores
+2023-07-27 10:09:06,967 [DEBUG] Consultando todos los niveles
+2023-07-27 10:09:17,865 [INFO] Se ha registrado un nuevo profesor por clases y nivel
+2023-07-27 11:57:03,460 [INFO] Fecha actual: 2023-07-27
+2023-07-27 11:57:03,465 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 11:57:03,466 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 12:08:26,264 [INFO] Fecha actual: 2023-07-27
+2023-07-27 12:08:26,271 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 12:08:26,271 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 13:22:59,154 [ERROR] Error al conectar a la base de datos:
+2023-07-27 13:22:59,235 [ERROR] Error al conectar a la base de datos:
+2023-07-27 13:22:59,251 [ERROR] Error al conectar a la base de datos:
+2023-07-27 13:23:02,751 [INFO] Fecha actual: 2023-07-27
+2023-07-27 13:23:02,756 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 13:23:02,757 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 13:23:02,775 [INFO] Fecha actual: 2023-07-27
+2023-07-27 13:23:02,780 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 13:23:02,781 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 13:23:02,840 [INFO] Fecha actual: 2023-07-27
+2023-07-27 13:23:02,847 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 13:23:02,848 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:34:28,362 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:34:28,373 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:34:28,377 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:34:46,255 [DEBUG] Consultando todos los alumnos
+2023-07-27 19:34:46,255 [WARNING] No se encontraron alumnos
+2023-07-27 19:34:55,511 [INFO] Se ha registrado un nuevo alumno
+2023-07-27 19:35:01,955 [DEBUG] Consultando todos los alumnos
+2023-07-27 19:39:26,139 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:39:26,139 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:39:26,139 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:50:09,057 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:50:09,073 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:50:09,073 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:51:16,080 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:51:16,088 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:51:16,088 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:51:25,425 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:51:25,430 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:51:25,430 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:51:42,099 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:51:42,115 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:51:42,115 [INFO] Nuevas inscripciones creadas: 0
+2023-07-27 19:52:06,080 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:52:06,095 [ERROR] Error al crear las nuevas inscripciones: (pymysql.err.ProgrammingError) (1146, "Table 'database_fenix.inscripciones' doesn't exist")
+[SQL: SELECT inscripciones.id_inscripcion AS inscripciones_id_inscripcion, inscripciones.profesor_clase_id AS inscripciones_profesor_clase_id, inscripciones.alumno_id AS inscripciones_alumno_id, inscripciones.precio_clase AS inscripciones_precio_clase, inscripciones.descuento_inscripcion AS inscripciones_descuento_inscripcion, inscripciones.descuento_familiar AS inscripciones_descuento_familiar, inscripciones.precio_con_descuento AS inscripciones_precio_con_descuento, inscripciones.pagada AS inscripciones_pagada, inscripciones.fecha_inscripcion AS inscripciones_fecha_inscripcion, inscripciones.fecha_fin AS inscripciones_fecha_fin 
+FROM inscripciones 
+WHERE DATE(inscripciones.fecha_fin) = %(DATE_1)s]
+[parameters: {'DATE_1': datetime.date(2023, 7, 27)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-27 19:52:39,995 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:52:40,010 [ERROR] Error al crear las nuevas inscripciones: (pymysql.err.ProgrammingError) (1146, "Table 'database_fenix.inscripciones' doesn't exist")
+[SQL: SELECT inscripciones.id_inscripcion AS inscripciones_id_inscripcion, inscripciones.profesor_clase_id AS inscripciones_profesor_clase_id, inscripciones.alumno_id AS inscripciones_alumno_id, inscripciones.precio_clase AS inscripciones_precio_clase, inscripciones.descuento_inscripcion AS inscripciones_descuento_inscripcion, inscripciones.descuento_familiar AS inscripciones_descuento_familiar, inscripciones.precio_con_descuento AS inscripciones_precio_con_descuento, inscripciones.pagada AS inscripciones_pagada, inscripciones.fecha_inscripcion AS inscripciones_fecha_inscripcion, inscripciones.fecha_fin AS inscripciones_fecha_fin 
+FROM inscripciones 
+WHERE DATE(inscripciones.fecha_fin) = %(DATE_1)s]
+[parameters: {'DATE_1': datetime.date(2023, 7, 27)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-27 19:54:15,876 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:54:15,900 [ERROR] Error al crear las nuevas inscripciones: (pymysql.err.ProgrammingError) (1146, "Table 'database_fenix.inscripciones' doesn't exist")
+[SQL: SELECT inscripciones.id_inscripcion AS inscripciones_id_inscripcion, inscripciones.profesor_clase_id AS inscripciones_profesor_clase_id, inscripciones.alumno_id AS inscripciones_alumno_id, inscripciones.precio_clase AS inscripciones_precio_clase, inscripciones.descuento_inscripcion AS inscripciones_descuento_inscripcion, inscripciones.descuento_familiar AS inscripciones_descuento_familiar, inscripciones.precio_con_descuento AS inscripciones_precio_con_descuento, inscripciones.pagada AS inscripciones_pagada, inscripciones.fecha_inscripcion AS inscripciones_fecha_inscripcion, inscripciones.fecha_fin AS inscripciones_fecha_fin 
+FROM inscripciones 
+WHERE DATE(inscripciones.fecha_fin) = %(DATE_1)s]
+[parameters: {'DATE_1': datetime.date(2023, 7, 27)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-27 19:54:50,037 [INFO] Fecha actual: 2023-07-27
+2023-07-27 19:54:50,053 [INFO] Número de inscripciones encontradas: 0
+2023-07-27 19:54:50,053 [INFO] Nuevas inscripciones creadas: 0

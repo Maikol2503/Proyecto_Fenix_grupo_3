@@ -9,10 +9,10 @@ from config.db import Base, engine
 alumnos = APIRouter(tags=["alumnos"])
 
 # CREAR TABLAS DE ALUMNOS
-@alumnos.on_event("startup")
-def startup():
-    # create db table
-    Base.metadata.create_all(bind=engine)
+# @alumnos.on_event("startup")
+# def startup():
+#     # create db table
+#     Base.metadata.create_all(bind=engine)
 
 
 # COSULTAR TODOS LOS ALUMNOS

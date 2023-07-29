@@ -12,3 +12,4 @@ class Alumnos(BaseModel):
     descuento_familiar:float
 
 
+
