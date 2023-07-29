@@ -48,6 +48,7 @@ def test_editar_un_nivel():
     nombre = nombre_nivel
     url = f"/niveles/{nombre}"
     data = {
+            "id_nivel":0,
             "nombre_nivel":nombre_nivel
            }
     response = client.put(url, json=data)

@@ -7,11 +7,11 @@ client = TestClient(app)
 
 def test_agregar_un_alumno():
     data = {
+            "id_alumno": 0,        
             "apellido_alumno": "Apellido prueba",
-            "edad_alumno": "Edad prueba",
+            "edad_alumno": "20",
             "email_alumno": "email prueba",
-            "nombre_alumno": "Nombre prueba",
-            "id_alumno": 0,
+            "nombre_alumno": "Nombre prueba",   
             "telefono_alumno": "123456789",
             "descuento_familiar": 0
             }
@@ -58,9 +58,10 @@ def test_editar_un_alumno():
     id = 1
     url = f"/alumnos/{id}"
     data = {
-            "nombre_alumno": "catalina",
+            "id_alumno": 0,
+            "nombre_alumno": "string",
             "apellido_alumno": "string",
-            "edad_alumno": "string",
+            "edad_alumno": "30",
             "email_alumno": "string",
             "telefono_alumno": "string",
             "descuento_familiar": 0
